@@ -1,2 +1,1 @@
-==> Start Api
-        uvicorn api:app --reload
+==> Start Api : uvicorn api:app --reload
